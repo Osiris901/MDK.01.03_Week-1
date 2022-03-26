@@ -1,0 +1,8 @@
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\bin\Debug\SGA_Task_04.exe.config
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\bin\Debug\SGA_Task_04.exe
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\bin\Debug\SGA_Task_04.pdb
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\obj\Debug\SGA_Task_04.csproj.AssemblyReference.cache
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\obj\Debug\SGA_Task_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\obj\Debug\SGA_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\obj\Debug\SGA_Task_04.exe
+C:\Users\osiri\source\repos\TrainingPractice_01\SGA_Task_04\obj\Debug\SGA_Task_04.pdb
